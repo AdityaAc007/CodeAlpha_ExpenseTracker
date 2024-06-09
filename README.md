@@ -6,7 +6,9 @@ User can have a track on their Saving goals and monitor progress towards achievi
 In this Expense Tracker i have provided 3 options for the user to enter his/her Expenses which are:
 
 1.Add a new Expense - To add a new Expense to the list
+
 2.Remove An Exepense - To delete an old Expense from the list
+
 3.List All Exepenses - To display all the Expenses in your list
 
 User can also add the category for the Expenses you are adding and it helps the user to remember the money spend on the specific category.
