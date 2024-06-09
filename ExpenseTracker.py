@@ -25,8 +25,8 @@ def addExpense(amount, category):
 def printMenu():
   print("Please choose from one of the following options...")
   print("1. Add A New Expense")
-  print("2. Remove An Exepense")
-  print("3. List All Exepenses")
+  print("2. Remove An Expense")
+  print("3. List All Expenses")
 
 
 def listExpenses():
