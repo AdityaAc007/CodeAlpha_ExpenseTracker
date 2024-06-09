@@ -3,7 +3,7 @@ Expense Tracker helps any person to track their Expenses,manage their budgets ef
 It acknowledges the user about his/her latest purchases and his/her pattern of spending his/her money.
 User can have a track on their Saving goals and monitor progress towards achieving them.
 
-In this Expense Tracker i have provided 3 options for the user to enter his/her Expenses which are:
+In this Expense Tracker i have provided 3 options for the user to access the Expense Tracker:
 
 1.Add a new Expense - To add a new Expense to the list
 
