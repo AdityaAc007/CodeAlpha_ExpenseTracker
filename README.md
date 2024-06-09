@@ -1,4 +1,4 @@
-#Expense Tracker
+# Expense Tracker
 
 This repository contains code for Expense Tracker. 
 Expense Tracker helps any person to track their Expenses,manage their budgets efficiently.
